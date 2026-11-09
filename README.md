@@ -55,7 +55,7 @@ Campus-Route-Optimizer/
 ├── algorithms/
 │   ├── dijkstra.py
 │   └── astar.py
-│   └── alternate_routes.py
+│   └── alternative_routes.py
 |   
 │
 ├── data/
@@ -65,10 +65,11 @@ Campus-Route-Optimizer/
 │   └── get_campus_data.py
 │
 ├── gui/
-│   └── app.py
+│   └──app.py
+│   
 │
 ├── integration.py
-├── map_visualization.py
+├── map_visualization-1.py
 ├── campus.graphml
 ├── campus_route_map.html
 ├── calculate_distances.py
