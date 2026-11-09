@@ -1,0 +1,150 @@
+{
+    "Main Gate": {
+        "lat": 30.267995,
+        "lon": 77.994529,
+        "node": 10253153446,
+        "nearest_node_distance": 37.45
+    },
+    "Dispensary": {
+        "lat": 30.268517,
+        "lon": 77.99499,
+        "node": 10253153653,
+        "nearest_node_distance": 16.8
+    },
+    "President's Estate": {
+        "lat": 30.268324,
+        "lon": 77.995623,
+        "node": 10253154190,
+        "nearest_node_distance": 31.13
+    },
+    "Library": {
+        "lat": 30.267249,
+        "lon": 77.995755,
+        "node": 10253178684,
+        "nearest_node_distance": 18.9
+    },
+    "Cafe and Gym": {
+        "lat": 30.267126,
+        "lon": 77.994714,
+        "node": 10253178663,
+        "nearest_node_distance": 48.66
+    },
+    "Auditorium": {
+        "lat": 0,
+        "lon": 0
+    },
+    "B.Tech Block": {
+        "lat": 30.267265,
+        "lon": 77.995224,
+        "node": 10253178663,
+        "nearest_node_distance": 37.53
+    },
+    "Civil Engineering Block": {
+        "lat": 30.266874,
+        "lon": 77.995535,
+        "node": 10253178672,
+        "nearest_node_distance": 20.23
+    },
+    "Param Lab": {
+        "lat": 30.267393,
+        "lon": 77.99602,
+        "node": 10253178695,
+        "nearest_node_distance": 16.86
+    },
+    "Aryabhatt Computer Centre": {
+        "lat": 30.267662,
+        "lon": 77.995779,
+        "node": 9654342156,
+        "nearest_node_distance": 15.93
+    },
+    "Petroleum Block": {
+        "lat": 30.267536,
+        "lon": 77.996342,
+        "node": 10253178699,
+        "nearest_node_distance": 19.52
+    },
+    "Chanakya Block": {
+        "lat": 30.267559,
+        "lon": 77.99705,
+        "node": 10253059495,
+        "nearest_node_distance": 39.16
+    },
+    "KP Nautiyal Block": {
+        "lat": 30.268027,
+        "lon": 77.996573,
+        "node": 10253059494,
+        "nearest_node_distance": 17.9
+    },
+    "VishwaKarma Block": {
+        "lat": 30.268101,
+        "lon": 77.996138,
+        "node": 10718819274,
+        "nearest_node_distance": 18.03
+    },
+    "Basket Ball Block": {
+        "lat": 30.266951,
+        "lon": 77.996085,
+        "node": 10253178695,
+        "nearest_node_distance": 35.02
+    },
+    "Indoor Badminton Block": {
+        "lat": 30.26685,
+        "lon": 77.995012,
+        "node": 10253178669,
+        "nearest_node_distance": 19.45
+    },
+    "Boy's Hostel": {
+        "lat": 30.267407,
+        "lon": 77.994111,
+        "node": 10253153440,
+        "nearest_node_distance": 50.01
+    },
+    "Mess": {
+        "lat": 30.267619,
+        "lon": 77.993869,
+        "node": 10253153440,
+        "nearest_node_distance": 30.07
+    },
+    "Lakshmibai Girls Hostel": {
+        "lat": 30.267715,
+        "lon": 77.993633,
+        "node": 10253153654,
+        "nearest_node_distance": 31.72
+    },
+    "Priyadarshani Hostel": {
+        "lat": 30.268713,
+        "lon": 77.996074,
+        "node": 10253154190,
+        "nearest_node_distance": 43.5
+    },
+    "Parking": {
+        "lat": 30.268305,
+        "lon": 77.997227,
+        "node": 10253153539,
+        "nearest_node_distance": 10.75
+    },
+    "Silver Jublee Convention Centre": {
+        "lat": 30.269089,
+        "lon": 77.99476,
+        "node": 10718819314,
+        "nearest_node_distance": 66.83
+    },
+    "CS/IT Block": {
+        "lat": 30.26894,
+        "lon": 77.993177,
+        "node": 10253153450,
+        "nearest_node_distance": 47.33
+    },
+    "Pharma Block": {
+        "lat": 30.269381,
+        "lon": 77.992896,
+        "node": 10253153450,
+        "nearest_node_distance": 99.01
+    },
+    "Law": {
+        "lat": 30.268412,
+        "lon": 77.993161,
+        "node": 10253153449,
+        "nearest_node_distance": 21.37
+    }
+}

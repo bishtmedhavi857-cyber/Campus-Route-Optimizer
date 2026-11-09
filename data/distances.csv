@@ -1,0 +1,277 @@
+Source,Destination,Distance_m,Distance_km
+Main Gate,Dispensary,85.39,0.085
+Main Gate,President's Estate,190.45,0.19
+Main Gate,Library,171.82,0.172
+Main Gate,Cafe and Gym,30.61,0.031
+Main Gate,B.Tech Block,30.61,0.031
+Main Gate,Civil Engineering Block,154.91,0.155
+Main Gate,Param Lab,158.05,0.158
+Main Gate,Aryabhatt Computer Centre,123.14,0.123
+Main Gate,Petroleum Block,228.31,0.228
+Main Gate,Chanakya Block,234.33,0.234
+Main Gate,KP Nautiyal Block,248.65,0.249
+Main Gate,VishwaKarma Block,164.78,0.165
+Main Gate,Basket Ball Block,158.05,0.158
+Main Gate,Indoor Badminton Block,113.31,0.113
+Main Gate,Boy's Hostel,94.39,0.094
+Main Gate,Mess,94.39,0.094
+Main Gate,Lakshmibai Girls Hostel,131.63,0.132
+Main Gate,Priyadarshani Hostel,190.45,0.19
+Main Gate,Parking,298.42,0.298
+Main Gate,Silver Jublee Convention Centre,116.39,0.116
+Main Gate,CS/IT Block,228.89,0.229
+Main Gate,Pharma Block,228.89,0.229
+Main Gate,Law,193.03,0.193
+Dispensary,President's Estate,125.41,0.125
+Dispensary,Library,218.25,0.218
+Dispensary,Cafe and Gym,116.01,0.116
+Dispensary,B.Tech Block,116.01,0.116
+Dispensary,Civil Engineering Block,235.16,0.235
+Dispensary,Param Lab,184.97,0.185
+Dispensary,Aryabhatt Computer Centre,150.05,0.15
+Dispensary,Petroleum Block,255.22,0.255
+Dispensary,Chanakya Block,261.24,0.261
+Dispensary,KP Nautiyal Block,275.57,0.276
+Dispensary,VishwaKarma Block,191.69,0.192
+Dispensary,Basket Ball Block,184.97,0.185
+Dispensary,Indoor Badminton Block,198.7,0.199
+Dispensary,Boy's Hostel,179.78,0.18
+Dispensary,Mess,179.78,0.18
+Dispensary,Lakshmibai Girls Hostel,217.03,0.217
+Dispensary,Priyadarshani Hostel,125.41,0.125
+Dispensary,Parking,325.33,0.325
+Dispensary,Silver Jublee Convention Centre,64.14,0.064
+Dispensary,CS/IT Block,314.29,0.314
+Dispensary,Pharma Block,314.29,0.314
+Dispensary,Law,278.43,0.278
+President's Estate,Library,182.89,0.183
+President's Estate,Cafe and Gym,161.64,0.162
+President's Estate,B.Tech Block,161.64,0.162
+President's Estate,Civil Engineering Block,199.79,0.2
+President's Estate,Param Lab,149.6,0.15
+President's Estate,Aryabhatt Computer Centre,114.69,0.115
+President's Estate,Petroleum Block,219.86,0.22
+President's Estate,Chanakya Block,148.52,0.149
+President's Estate,KP Nautiyal Block,162.85,0.163
+President's Estate,VishwaKarma Block,75.13,0.075
+President's Estate,Basket Ball Block,149.6,0.15
+President's Estate,Indoor Badminton Block,241.4,0.241
+President's Estate,Boy's Hostel,284.84,0.285
+President's Estate,Mess,284.84,0.285
+President's Estate,Lakshmibai Girls Hostel,322.08,0.322
+President's Estate,Priyadarshani Hostel,0,0.0
+President's Estate,Parking,212.61,0.213
+President's Estate,Silver Jublee Convention Centre,189.55,0.19
+President's Estate,CS/IT Block,419.34,0.419
+President's Estate,Pharma Block,419.34,0.419
+President's Estate,Law,383.48,0.383
+Library,Cafe and Gym,141.2,0.141
+Library,B.Tech Block,141.2,0.141
+Library,Civil Engineering Block,16.91,0.017
+Library,Param Lab,33.29,0.033
+Library,Aryabhatt Computer Centre,68.2,0.068
+Library,Petroleum Block,103.55,0.104
+Library,Chanakya Block,179.4,0.179
+Library,KP Nautiyal Block,193.72,0.194
+Library,VishwaKarma Block,134.2,0.134
+Library,Basket Ball Block,33.29,0.033
+Library,Indoor Badminton Block,58.51,0.059
+Library,Boy's Hostel,266.2,0.266
+Library,Mess,266.2,0.266
+Library,Lakshmibai Girls Hostel,303.45,0.303
+Library,Priyadarshani Hostel,182.89,0.183
+Library,Parking,243.48,0.243
+Library,Silver Jublee Convention Centre,249.25,0.249
+Library,CS/IT Block,400.71,0.401
+Library,Pharma Block,400.71,0.401
+Library,Law,364.85,0.365
+Cafe and Gym,B.Tech Block,0,0.0
+Cafe and Gym,Civil Engineering Block,124.3,0.124
+Cafe and Gym,Param Lab,129.24,0.129
+Cafe and Gym,Aryabhatt Computer Centre,94.33,0.094
+Cafe and Gym,Petroleum Block,199.5,0.199
+Cafe and Gym,Chanakya Block,205.52,0.206
+Cafe and Gym,KP Nautiyal Block,219.84,0.22
+Cafe and Gym,VishwaKarma Block,135.97,0.136
+Cafe and Gym,Basket Ball Block,129.24,0.129
+Cafe and Gym,Indoor Badminton Block,82.7,0.083
+Cafe and Gym,Boy's Hostel,125.0,0.125
+Cafe and Gym,Mess,125.0,0.125
+Cafe and Gym,Lakshmibai Girls Hostel,162.24,0.162
+Cafe and Gym,Priyadarshani Hostel,161.64,0.162
+Cafe and Gym,Parking,269.6,0.27
+Cafe and Gym,Silver Jublee Convention Centre,147.0,0.147
+Cafe and Gym,CS/IT Block,259.5,0.26
+Cafe and Gym,Pharma Block,259.5,0.26
+Cafe and Gym,Law,223.65,0.224
+B.Tech Block,Civil Engineering Block,124.3,0.124
+B.Tech Block,Param Lab,129.24,0.129
+B.Tech Block,Aryabhatt Computer Centre,94.33,0.094
+B.Tech Block,Petroleum Block,199.5,0.199
+B.Tech Block,Chanakya Block,205.52,0.206
+B.Tech Block,KP Nautiyal Block,219.84,0.22
+B.Tech Block,VishwaKarma Block,135.97,0.136
+B.Tech Block,Basket Ball Block,129.24,0.129
+B.Tech Block,Indoor Badminton Block,82.7,0.083
+B.Tech Block,Boy's Hostel,125.0,0.125
+B.Tech Block,Mess,125.0,0.125
+B.Tech Block,Lakshmibai Girls Hostel,162.24,0.162
+B.Tech Block,Priyadarshani Hostel,161.64,0.162
+B.Tech Block,Parking,269.6,0.27
+B.Tech Block,Silver Jublee Convention Centre,147.0,0.147
+B.Tech Block,CS/IT Block,259.5,0.26
+B.Tech Block,Pharma Block,259.5,0.26
+B.Tech Block,Law,223.65,0.224
+Civil Engineering Block,Param Lab,50.19,0.05
+Civil Engineering Block,Aryabhatt Computer Centre,85.11,0.085
+Civil Engineering Block,Petroleum Block,120.45,0.12
+Civil Engineering Block,Chanakya Block,196.31,0.196
+Civil Engineering Block,KP Nautiyal Block,210.63,0.211
+Civil Engineering Block,VishwaKarma Block,151.1,0.151
+Civil Engineering Block,Basket Ball Block,50.19,0.05
+Civil Engineering Block,Indoor Badminton Block,41.6,0.042
+Civil Engineering Block,Boy's Hostel,249.3,0.249
+Civil Engineering Block,Mess,249.3,0.249
+Civil Engineering Block,Lakshmibai Girls Hostel,286.54,0.287
+Civil Engineering Block,Priyadarshani Hostel,199.79,0.2
+Civil Engineering Block,Parking,260.39,0.26
+Civil Engineering Block,Silver Jublee Convention Centre,266.15,0.266
+Civil Engineering Block,CS/IT Block,383.8,0.384
+Civil Engineering Block,Pharma Block,383.8,0.384
+Civil Engineering Block,Law,347.94,0.348
+Param Lab,Aryabhatt Computer Centre,34.92,0.035
+Param Lab,Petroleum Block,70.26,0.07
+Param Lab,Chanakya Block,146.11,0.146
+Param Lab,KP Nautiyal Block,160.43,0.16
+Param Lab,VishwaKarma Block,100.91,0.101
+Param Lab,Basket Ball Block,0,0.0
+Param Lab,Indoor Badminton Block,91.79,0.092
+Param Lab,Boy's Hostel,252.44,0.252
+Param Lab,Mess,252.44,0.252
+Param Lab,Lakshmibai Girls Hostel,289.68,0.29
+Param Lab,Priyadarshani Hostel,149.6,0.15
+Param Lab,Parking,210.19,0.21
+Param Lab,Silver Jublee Convention Centre,215.96,0.216
+Param Lab,CS/IT Block,386.94,0.387
+Param Lab,Pharma Block,386.94,0.387
+Param Lab,Law,351.09,0.351
+Aryabhatt Computer Centre,Petroleum Block,105.17,0.105
+Aryabhatt Computer Centre,Chanakya Block,111.2,0.111
+Aryabhatt Computer Centre,KP Nautiyal Block,125.52,0.126
+Aryabhatt Computer Centre,VishwaKarma Block,65.99,0.066
+Aryabhatt Computer Centre,Basket Ball Block,34.92,0.035
+Aryabhatt Computer Centre,Indoor Badminton Block,126.71,0.127
+Aryabhatt Computer Centre,Boy's Hostel,217.52,0.218
+Aryabhatt Computer Centre,Mess,217.52,0.218
+Aryabhatt Computer Centre,Lakshmibai Girls Hostel,254.77,0.255
+Aryabhatt Computer Centre,Priyadarshani Hostel,114.69,0.115
+Aryabhatt Computer Centre,Parking,175.28,0.175
+Aryabhatt Computer Centre,Silver Jublee Convention Centre,181.04,0.181
+Aryabhatt Computer Centre,CS/IT Block,352.03,0.352
+Aryabhatt Computer Centre,Pharma Block,352.03,0.352
+Aryabhatt Computer Centre,Law,316.17,0.316
+Petroleum Block,Chanakya Block,216.37,0.216
+Petroleum Block,KP Nautiyal Block,230.69,0.231
+Petroleum Block,VishwaKarma Block,171.17,0.171
+Petroleum Block,Basket Ball Block,70.26,0.07
+Petroleum Block,Indoor Badminton Block,162.05,0.162
+Petroleum Block,Boy's Hostel,322.7,0.323
+Petroleum Block,Mess,322.7,0.323
+Petroleum Block,Lakshmibai Girls Hostel,359.94,0.36
+Petroleum Block,Priyadarshani Hostel,219.86,0.22
+Petroleum Block,Parking,280.45,0.28
+Petroleum Block,Silver Jublee Convention Centre,286.22,0.286
+Petroleum Block,CS/IT Block,457.2,0.457
+Petroleum Block,Pharma Block,457.2,0.457
+Petroleum Block,Law,421.34,0.421
+Chanakya Block,KP Nautiyal Block,14.32,0.014
+Chanakya Block,VishwaKarma Block,99.83,0.1
+Chanakya Block,Basket Ball Block,146.11,0.146
+Chanakya Block,Indoor Badminton Block,237.91,0.238
+Chanakya Block,Boy's Hostel,328.72,0.329
+Chanakya Block,Mess,328.72,0.329
+Chanakya Block,Lakshmibai Girls Hostel,365.96,0.366
+Chanakya Block,Priyadarshani Hostel,148.52,0.149
+Chanakya Block,Parking,64.08,0.064
+Chanakya Block,Silver Jublee Convention Centre,292.24,0.292
+Chanakya Block,CS/IT Block,463.22,0.463
+Chanakya Block,Pharma Block,463.22,0.463
+Chanakya Block,Law,427.36,0.427
+KP Nautiyal Block,VishwaKarma Block,114.16,0.114
+KP Nautiyal Block,Basket Ball Block,160.43,0.16
+KP Nautiyal Block,Indoor Badminton Block,252.23,0.252
+KP Nautiyal Block,Boy's Hostel,343.04,0.343
+KP Nautiyal Block,Mess,343.04,0.343
+KP Nautiyal Block,Lakshmibai Girls Hostel,380.28,0.38
+KP Nautiyal Block,Priyadarshani Hostel,162.85,0.163
+KP Nautiyal Block,Parking,78.41,0.078
+KP Nautiyal Block,Silver Jublee Convention Centre,306.56,0.307
+KP Nautiyal Block,CS/IT Block,477.55,0.478
+KP Nautiyal Block,Pharma Block,477.55,0.478
+KP Nautiyal Block,Law,441.69,0.442
+VishwaKarma Block,Basket Ball Block,100.91,0.101
+VishwaKarma Block,Indoor Badminton Block,192.71,0.193
+VishwaKarma Block,Boy's Hostel,259.17,0.259
+VishwaKarma Block,Mess,259.17,0.259
+VishwaKarma Block,Lakshmibai Girls Hostel,296.41,0.296
+VishwaKarma Block,Priyadarshani Hostel,75.13,0.075
+VishwaKarma Block,Parking,163.92,0.164
+VishwaKarma Block,Silver Jublee Convention Centre,222.69,0.223
+VishwaKarma Block,CS/IT Block,393.67,0.394
+VishwaKarma Block,Pharma Block,393.67,0.394
+VishwaKarma Block,Law,357.81,0.358
+Basket Ball Block,Indoor Badminton Block,91.79,0.092
+Basket Ball Block,Boy's Hostel,252.44,0.252
+Basket Ball Block,Mess,252.44,0.252
+Basket Ball Block,Lakshmibai Girls Hostel,289.68,0.29
+Basket Ball Block,Priyadarshani Hostel,149.6,0.15
+Basket Ball Block,Parking,210.19,0.21
+Basket Ball Block,Silver Jublee Convention Centre,215.96,0.216
+Basket Ball Block,CS/IT Block,386.94,0.387
+Basket Ball Block,Pharma Block,386.94,0.387
+Basket Ball Block,Law,351.09,0.351
+Indoor Badminton Block,Boy's Hostel,207.7,0.208
+Indoor Badminton Block,Mess,207.7,0.208
+Indoor Badminton Block,Lakshmibai Girls Hostel,244.94,0.245
+Indoor Badminton Block,Priyadarshani Hostel,241.4,0.241
+Indoor Badminton Block,Parking,301.99,0.302
+Indoor Badminton Block,Silver Jublee Convention Centre,229.7,0.23
+Indoor Badminton Block,CS/IT Block,342.2,0.342
+Indoor Badminton Block,Pharma Block,342.2,0.342
+Indoor Badminton Block,Law,306.34,0.306
+Boy's Hostel,Mess,0,0.0
+Boy's Hostel,Lakshmibai Girls Hostel,37.24,0.037
+Boy's Hostel,Priyadarshani Hostel,284.84,0.285
+Boy's Hostel,Parking,392.8,0.393
+Boy's Hostel,Silver Jublee Convention Centre,210.78,0.211
+Boy's Hostel,CS/IT Block,134.5,0.135
+Boy's Hostel,Pharma Block,134.5,0.135
+Boy's Hostel,Law,98.65,0.099
+Mess,Lakshmibai Girls Hostel,37.24,0.037
+Mess,Priyadarshani Hostel,284.84,0.285
+Mess,Parking,392.8,0.393
+Mess,Silver Jublee Convention Centre,210.78,0.211
+Mess,CS/IT Block,134.5,0.135
+Mess,Pharma Block,134.5,0.135
+Mess,Law,98.65,0.099
+Lakshmibai Girls Hostel,Priyadarshani Hostel,322.08,0.322
+Lakshmibai Girls Hostel,Parking,430.05,0.43
+Lakshmibai Girls Hostel,Silver Jublee Convention Centre,248.02,0.248
+Lakshmibai Girls Hostel,CS/IT Block,171.75,0.172
+Lakshmibai Girls Hostel,Pharma Block,171.75,0.172
+Lakshmibai Girls Hostel,Law,135.89,0.136
+Priyadarshani Hostel,Parking,212.61,0.213
+Priyadarshani Hostel,Silver Jublee Convention Centre,189.55,0.19
+Priyadarshani Hostel,CS/IT Block,419.34,0.419
+Priyadarshani Hostel,Pharma Block,419.34,0.419
+Priyadarshani Hostel,Law,383.48,0.383
+Parking,Silver Jublee Convention Centre,356.32,0.356
+Parking,CS/IT Block,527.31,0.527
+Parking,Pharma Block,527.31,0.527
+Parking,Law,491.45,0.491
+Silver Jublee Convention Centre,CS/IT Block,345.28,0.345
+Silver Jublee Convention Centre,Pharma Block,345.28,0.345
+Silver Jublee Convention Centre,Law,309.42,0.309
+CS/IT Block,Pharma Block,0,0.0
+CS/IT Block,Law,35.86,0.036
+Pharma Block,Law,35.86,0.036
