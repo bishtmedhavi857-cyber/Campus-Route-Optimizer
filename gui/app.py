@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-# Get the project root (the folder containing app.py)
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Make the main project folder accessible for imports
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
@@ -42,6 +42,8 @@ ACCENT = "#1f6feb"
 TEAL = "#1fc8c0"
 TEXT = "#ffffff"
 MUTED = "#aab7cf"
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 GRAPH_PATH = os.path.join(
     BASE_DIR, "data", "campus_graph.graphml"
@@ -828,3 +830,4 @@ if __name__ == "__main__":
     app = CampusRouteOptimizer()
 
     app.mainloop()
+
