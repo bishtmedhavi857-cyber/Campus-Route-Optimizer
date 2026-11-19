@@ -69,7 +69,7 @@ Campus-Route-Optimizer/
 │   
 │
 ├── integration.py
-├── map_visualization-1.py
+├── map_visualization.py
 ├── campus.graphml
 ├── campus_route_map.html
 ├── calculate_distances.py
